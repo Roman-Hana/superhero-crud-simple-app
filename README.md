@@ -18,3 +18,7 @@ We want to be able to:
 with pagination, showing 5 items at once [**pagination, showing 5 items at once is not done**]
 
 ● See the details of one particular superhero with all it’s information and images [**done**]
+
+## app deployed on heroku
+
+### https://superhero-crud-simple-app.herokuapp.com/
